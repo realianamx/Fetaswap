@@ -2,13 +2,13 @@
 {
     "1 Month Server Boost": {
         "FETA": "10",
-        "WU": "15",
-        "MATIC": "500"
+        "WU": "500000",
+        "USDC": "8"
     },
     "3 Months Server Boost": {
         "FETA": "100",
-        "WU": "1000",
-        "MATIC": "150"
+        "WU": "1000000",
+        "USDC": "14"
     }
 }
 ]
