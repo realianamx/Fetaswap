@@ -3,6 +3,7 @@
     {
       "walletAddress": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
       "points": 21
+      "referrer": "0x000000000000000000000000000000000000dead"
     },
     {
       "walletAddress": "0x8504706e5df9357835250f2Fd0b4E78CCA9319d1",
