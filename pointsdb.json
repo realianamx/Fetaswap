@@ -6,12 +6,15 @@
     },
     {
       "walletAddress": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
-      "points": 24,
+      "points": 22,
       "referrer": "0x000000000000000000000000000000000000dead",
       "raffrals": [
         "0xC235Ca2231484309467D35081a74EF5aee43440B"
       ],
       "protectionStatus": "false"
+      "B2x": "off"
+      "B5x": "off"
+      "B7x": "off"
     },
     {
       "walletAddress": "0xC235Ca2231484309467D35081a74EF5aee43440B",
@@ -19,6 +22,9 @@
       "referrer": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
       "raffrals": [],
       "protectionStatus": "false"
+      "B2x": "off"
+      "B5x": "off"
+      "B7x": "off"
     }
   ]
 }
