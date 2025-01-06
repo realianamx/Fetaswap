@@ -25,6 +25,10 @@
       "B2x": "off",
       "B5x": "off",
       "B7x": "on"
+    },
+    {
+      "walletAddress": "0xB141e4ef9070EC7341e2f2877C1aD6027653Ab90",
+      "points": 121
     }
   ]
 }
