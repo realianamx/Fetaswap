@@ -3,46 +3,6 @@
     {
       "walletAddress": "0x000000000000000000000000000000000000dead",
       "points": 0
-    },
-    {
-      "walletAddress": "0xC235Ca2231484309467D35081a74EF5aee43440B",
-      "points": 45,
-      "referrer": "",
-      "raffrals": [],
-      "protectionStatus": "false",
-      "B2x": "off",
-      "B5x": "off",
-      "B7x": "on"
-    },
-    {
-      "walletAddress": "0xB141e4ef9070EC7341e2f2877C1aD6027653Ab90",
-      "points": 821,
-      "referrer": "",
-      "raffrals": [],
-      "protectionStatus": "false",
-      "B2x": "off",
-      "B5x": "off",
-      "B7x": "on"
-    },
-    {
-      "walletAddress": "0x8893d6e799d04f6cDF0059285331eC2E73d9306c",
-      "points": 1302,
-      "referrer": "",
-      "raffrals": [],
-      "protectionStatus": "false",
-      "B2x": "off",
-      "B5x": "off",
-      "B7x": "on"
-    },
-    {
-      "walletAddress": "0xF85F074f8B7A6d6D4208fA8fbbef0301DE0bb9F7",
-      "points": 1,
-      "referrer": "",
-      "raffrals": [],
-      "protectionStatus": "false",
-      "B2x": "off",
-      "B5x": "off",
-      "B7x": "on"
     }
   ]
 }
