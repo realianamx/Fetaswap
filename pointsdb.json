@@ -11,6 +11,16 @@
     {
       "walletAddress": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
       "points": 1
+    },
+    {
+      "walletAddress": "0x9f8e059F6Fc72092cFd9B7Ab23185d033f0367d4",
+      "points": 0,
+      "referrer": null,
+      "raffrals": [],
+      "protectionStatus": "off",
+      "B2x": "off",
+      "B5x": "off",
+      "B7x": "off"
     }
   ]
 }
