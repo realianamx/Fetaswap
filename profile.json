@@ -9,6 +9,16 @@
       "awards": null,
       "tradingBonus": 0,
       "usdtPoints": 0
+    },
+    {
+      "name": "Loo",
+      "email": "polynfts@gmail.com",
+      "wallet": "0xe060633451d8069147d1997f1edf273536d2f5be",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 0,
+      "usdtPoints": 0
     }
   ]
 }
