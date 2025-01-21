@@ -5,6 +5,7 @@
       "points": 0
     },
     {
+      "wallet": "0xB141e4ef9070EC7341e2f2877C1aD6027653Ab90",
       "walletAddress": "0xB141e4ef9070EC7341e2f2877C1aD6027653Ab90",
       "points": 501,
       "referrer": null,
@@ -15,6 +16,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
       "walletAddress": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
       "points": 3,
       "referrer": null,
@@ -27,6 +29,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x9f8e059F6Fc72092cFd9B7Ab23185d033f0367d4",
       "walletAddress": "0x9f8e059F6Fc72092cFd9B7Ab23185d033f0367d4",
       "points": 2,
       "referrer": null,
@@ -37,6 +40,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0xC235Ca2231484309467D35081a74EF5aee43440B",
       "walletAddress": "0xC235Ca2231484309467D35081a74EF5aee43440B",
       "points": 1,
       "referrer": "0x60B2db0001C818A73EdbE29EE6fF89Fd267bd3f3",
@@ -47,6 +51,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0xA38cDa935B26906d1F3900634b1f7a4915C16011",
       "walletAddress": "0xA38cDa935B26906d1F3900634b1f7a4915C16011",
       "points": 138,
       "referrer": null,
@@ -57,6 +62,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x3b98f49bF573F631dB912ED6341b936D61f1f553",
       "walletAddress": "0x3b98f49bF573F631dB912ED6341b936D61f1f553",
       "points": 0,
       "referrer": null,
@@ -67,6 +73,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x873cd5DF0ac4038455130e618A288f9f8D1C93f6",
       "walletAddress": "0x873cd5DF0ac4038455130e618A288f9f8D1C93f6",
       "points": 21,
       "referrer": null,
@@ -77,6 +84,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x1f0B25405c3E335AA0C0f2235D0dA2361Cc4694b",
       "walletAddress": "0x1f0B25405c3E335AA0C0f2235D0dA2361Cc4694b",
       "points": 826,
       "referrer": null,
@@ -87,6 +95,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x0b3a138674EcBC4145A50839489741Fb92f3De96",
       "walletAddress": "0x0b3a138674EcBC4145A50839489741Fb92f3De96",
       "points": 730,
       "referrer": null,
@@ -97,6 +106,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x042982C4BF95B0DAD2452F0dB1AaD33b6aD5c893",
       "walletAddress": "0x042982C4BF95B0DAD2452F0dB1AaD33b6aD5c893",
       "points": 338,
       "referrer": null,
@@ -118,6 +128,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x0243b2EB24495FB463bdDA7F06A9f029853b5E0E",
       "walletAddress": "0x0243b2EB24495FB463bdDA7F06A9f029853b5E0E",
       "points": 198,
       "referrer": null,
@@ -128,6 +139,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x0D60bEfEBf4B9A7791209Aa4747877Cc8ce50e9D",
       "walletAddress": "0x0D60bEfEBf4B9A7791209Aa4747877Cc8ce50e9D",
       "points": 1911,
       "referrer": null,
@@ -138,6 +150,7 @@
       "B7x": "off"
     },
     {
+      "wallet": "0x4928857a02e862C9d565B94dfDc1F4BbAbDD4A6d",
       "walletAddress": "0x4928857a02e862C9d565B94dfDc1F4BbAbDD4A6d",
       "points": 1,
       "referrer": null,
