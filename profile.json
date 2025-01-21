@@ -9,6 +9,16 @@
       "awards": null,
       "tradingBonus": 0,
       "usdtPoints": 0
+    },
+    {
+      "name": "LOKA",
+      "email": "kuta2271@gmail.com",
+      "wallet": "0xa5462c4e7c7eb341afd44dbfe5050a0d20f10498",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
