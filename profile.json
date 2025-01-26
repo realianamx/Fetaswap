@@ -19,6 +19,16 @@
       "awards": null,
       "tradingBonus": 300,
       "usdtPoints": 0
+    },
+    {
+      "name": "LV",
+      "email": "lv@stopthe.dev",
+      "wallet": "0x25c8a3407dc368935bb87bb66a5f2c2792d0d90c",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
