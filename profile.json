@@ -29,6 +29,16 @@
       "awards": null,
       "tradingBonus": 300,
       "usdtPoints": 0
+    },
+    {
+      "name": "Cravensworth ",
+      "email": "cravensworth@stopthe.dev",
+      "wallet": "0xdf8d07dd7cda8a0f5485ecf46483510ac0ca0383",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
