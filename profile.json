@@ -49,6 +49,16 @@
       "awards": null,
       "tradingBonus": 300,
       "usdtPoints": 0
+    },
+    {
+      "name": "tip2663",
+      "email": "tip@stopthe.dev",
+      "wallet": "0x3b2a1180425c5d1364367aa7309099748e534e2b",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
