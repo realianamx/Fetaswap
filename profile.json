@@ -39,6 +39,16 @@
       "awards": null,
       "tradingBonus": 300,
       "usdtPoints": 0
+    },
+    {
+      "name": "0xPanos",
+      "email": "Stable.crypto.nft@gmail.com",
+      "wallet": "0x9f8e059f6fc72092cfd9b7ab23185d033f0367d4",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
