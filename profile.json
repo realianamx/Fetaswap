@@ -59,6 +59,16 @@
       "awards": null,
       "tradingBonus": 0,
       "usdtPoints": 0
+    },
+    {
+      "name": "Rae",
+      "email": "loidsannn@gmail.com",
+      "wallet": "0x60b2db0001c818a73edbe29ee6ff89fd267bd3f3",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
