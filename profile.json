@@ -59,6 +59,16 @@
       "awards": null,
       "tradingBonus": 200,
       "usdtPoints": 0
+    },
+    {
+      "name": "LI O",
+      "email": "voticaw286@bmixr.com",
+      "wallet": "0xf9a7be89dbfe37ac78f3631e94d556643bb9e945",
+      "level": 1,
+      "rank": "E",
+      "awards": null,
+      "tradingBonus": 300,
+      "usdtPoints": 0
     }
   ]
 }
