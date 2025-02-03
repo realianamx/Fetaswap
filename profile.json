@@ -69,6 +69,16 @@
       "tradingBonus": 300,
       "usdtPoints": 0,
       "emailVerified": true
+    },
+    {
+      "name": "polysquares",
+      "email": "contact@polysquares.com",
+      "wallet": "0x2f9c5e7a47771a8fd5cdfd8c8404a8be3c9c4b1b",
+      "level": 1,
+      "rank": "E",
+      "tradingBonus": 300,
+      "usdtPoints": 0,
+      "emailVerified": true
     }
   ]
 }
