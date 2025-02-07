@@ -291,6 +291,17 @@
       "B2x": "off",
       "B5x": "off",
       "B7x": "off"
+    },
+    {
+      "wallet": "0xbAF20956E444b6583A95fB96f4Df2C838e60B1a4",
+      "walletAddress": "0xbAF20956E444b6583A95fB96f4Df2C838e60B1a4",
+      "points": 0,
+      "referrer": null,
+      "raffrals": [],
+      "protectionStatus": "off",
+      "B2x": "off",
+      "B5x": "off",
+      "B7x": "off"
     }
   ]
 }
