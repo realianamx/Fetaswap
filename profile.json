@@ -79,6 +79,16 @@
       "tradingBonus": 100,
       "usdtPoints": 0,
       "emailVerified": true
+    },
+    {
+      "name": "Matt",
+      "email": "matt6733@gmail.com",
+      "wallet": "0x4102745bb3dcd60e2b687ae43dad193997c40238",
+      "level": 1,
+      "rank": "E",
+      "tradingBonus": 300,
+      "usdtPoints": 0,
+      "emailVerified": true
     }
   ]
 }
