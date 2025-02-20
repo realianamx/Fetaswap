@@ -89,6 +89,16 @@
       "tradingBonus": 300,
       "usdtPoints": 0,
       "emailVerified": true
+    },
+    {
+      "name": "Artio",
+      "email": "michiel_joris1@hotmail.com",
+      "wallet": "0x008c91798aac71fe3d529fdca1f3a085b76324c4",
+      "level": 1,
+      "rank": "E",
+      "tradingBonus": 300,
+      "usdtPoints": 0,
+      "emailVerified": true
     }
   ]
 }
