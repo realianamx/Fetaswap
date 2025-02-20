@@ -96,7 +96,7 @@
       "wallet": "0x008c91798aac71fe3d529fdca1f3a085b76324c4",
       "level": 1,
       "rank": "E",
-      "tradingBonus": 300,
+      "tradingBonus": 200,
       "usdtPoints": 0,
       "emailVerified": true
     }
