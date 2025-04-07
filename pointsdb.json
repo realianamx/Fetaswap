@@ -412,6 +412,17 @@
       "B2x": "off",
       "B5x": "off",
       "B7x": "off"
+    },
+    {
+      "wallet": "0x3162B42858C415A689420847641a52b6Ae41A941",
+      "walletAddress": "0x3162B42858C415A689420847641a52b6Ae41A941",
+      "points": 0,
+      "referrer": null,
+      "raffrals": [],
+      "protectionStatus": "off",
+      "B2x": "off",
+      "B5x": "off",
+      "B7x": "off"
     }
   ]
 }
