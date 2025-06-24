@@ -533,6 +533,17 @@
       "B2x": "off",
       "B5x": "off",
       "B7x": "off"
+    },
+    {
+      "wallet": "0x49e27547B633C7A45A7827034fC8B7DD90dc6A3B",
+      "walletAddress": "0x49e27547B633C7A45A7827034fC8B7DD90dc6A3B",
+      "points": 0,
+      "referrer": null,
+      "raffrals": [],
+      "protectionStatus": "off",
+      "B2x": "off",
+      "B5x": "off",
+      "B7x": "off"
     }
   ]
 }
