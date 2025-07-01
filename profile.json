@@ -145,6 +145,16 @@
         "follow_twitter": false,
         "join_discord": false
       }
+    },
+    {
+      "name": "julio cesar soluchinski",
+      "email": "solujulio@hotmail.com",
+      "wallet": "0x873cd5df0ac4038455130e618a288f9f8d1c93f6",
+      "level": 1,
+      "rank": "E",
+      "tradingBonus": 300,
+      "usdtPoints": 0,
+      "emailVerified": true
     }
   ]
 }
